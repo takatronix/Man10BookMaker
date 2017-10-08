@@ -1,0 +1,2 @@
+# Man10BookMaker
+BookMakerギャンブルプラグイン
