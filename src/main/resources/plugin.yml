@@ -1,0 +1,10 @@
+name: Man10BookMaker
+version: 1.0
+main: red.man10.BookMakerPlugin
+author: [takatronix]
+description: Man10 BookMaker Gambling system
+commands:
+   mb:
+      description: Man10 BookMaker Gambling system
+      permission: man10.mb
+      permission-message: You don't have <permission>
